@@ -1,0 +1,33 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #198754 !important;
+}
+
+header.bg-success {
+  background: linear-gradient(90deg, #198754 60%, #43c59e 100%);
+}
+
+footer {
+  margin-top: 40px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.btn-success, .bg-success {
+  background-color: #198754 !important;
+}
+
+.form-control:focus {
+  border-color: #198754;
+  box-shadow: 0 0 0 0.2rem rgba(25, 135, 84, 0.25);
+}
+
+h2, h3 {
+  color: #198754;
+} 

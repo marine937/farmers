@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F5F5F5"/>
+  
+  <!-- Key illustration -->
+  <circle cx="200" cy="150" r="40" fill="#2196F3" opacity="0.2"/>
+  <rect x="180" y="130" width="40" height="40" rx="5" fill="#2196F3"/>
+  <circle cx="200" cy="150" r="15" fill="white"/>
+  
+  <!-- Lock illustration -->
+  <rect x="250" y="120" width="60" height="80" rx="10" fill="#2196F3"/>
+  <rect x="270" y="100" width="20" height="20" rx="5" fill="#2196F3"/>
+  <circle cx="280" cy="150" r="15" fill="white"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="50" cy="250" r="20" fill="#2196F3" opacity="0.2"/>
+  <circle cx="350" cy="50" r="30" fill="#2196F3" opacity="0.2"/>
+</svg> 

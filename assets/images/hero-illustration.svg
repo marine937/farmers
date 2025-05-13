@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#F5F5F5"/>
+  
+  <!-- Market stall -->
+  <rect x="100" y="200" width="200" height="150" fill="#FFA726" stroke="#F57C00" stroke-width="2"/>
+  <path d="M100 200 L200 150 L300 200" fill="#FFA726" stroke="#F57C00" stroke-width="2"/>
+  
+  <!-- Produce items -->
+  <circle cx="150" cy="250" r="20" fill="#4CAF50"/> <!-- Green vegetable -->
+  <circle cx="200" cy="280" r="25" fill="#FFC107"/> <!-- Yellow fruit -->
+  <circle cx="250" cy="260" r="15" fill="#F44336"/> <!-- Red fruit -->
+  
+  <!-- Farmer -->
+  <circle cx="400" cy="250" r="30" fill="#795548"/> <!-- Head -->
+  <rect x="385" y="280" width="30" height="60" fill="#3F51B5"/> <!-- Body -->
+  
+  <!-- Sun -->
+  <circle cx="700" cy="100" r="50" fill="#FFC107" opacity="0.8"/>
+  <path d="M700 30 L700 20 M700 180 L700 170 M630 100 L620 100 M780 100 L770 100" 
+        stroke="#FFC107" stroke-width="4"/>
+  
+  <!-- Decorative elements -->
+  <path d="M50 350 Q100 300 150 350" stroke="#4CAF50" stroke-width="3" fill="none"/>
+  <path d="M650 350 Q700 300 750 350" stroke="#4CAF50" stroke-width="3" fill="none"/>
+</svg> 
